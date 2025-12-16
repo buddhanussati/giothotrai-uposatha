@@ -4,7 +4,7 @@
 
 Đây là một ứng dụng web đơn giản, được thiết kế đặc biệt cho các tu sĩ và cư sĩ Phật giáo (đặc biệt là truyền thống Nguyên Thủy/Theravada) để theo dõi thời gian được phép thọ thực trong ngày và các ngày Tụng Giới/Bát Quan Trai (Bố Tát/Uposatha).
 
-[IMG_20251216_160214](https://github.com/user-attachments/assets/bf0e94eb-b3d6-4919-9511-6d7ed9983a46)
+![Giao diện ứng dụng](https://github.com/user-attachments/assets/bf0e94eb-b3d6-4919-9511-6d7ed9983a46)
 
 ## ✨ Tính năng nổi bật!
 ### 1. Xác định chính xác giờ Ngọ (Solar Noon)
